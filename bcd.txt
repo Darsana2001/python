@@ -1,0 +1,6 @@
+10,administration,200,1700
+30,purchasing,14,1800
+50,shipping,121,1500
+40,porting,14,1900
+20,delivery,14,1100
+40,Marketing,14,1200
